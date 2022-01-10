@@ -1,0 +1,21 @@
+{
+  "name": "physics-menu-02-physical-world",
+  "version": "1.0.0",
+  "description": "Physics menu with Three.js & Cannon.js",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "cannon": "0.6.2",
+    "gsap": "3.0.1",
+    "three": "0.110.0",
+    "three-orbitcontrols": "2.110.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
